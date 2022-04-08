@@ -1,0 +1,14 @@
+{
+  "name": "meal",
+  "version": "1.0.0",
+  "description": "급식 api->kakao link",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-fetch -r ts-node/register index.ts"
+  },
+  "author": "kdh8219",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^17.0.23"
+  }
+}
